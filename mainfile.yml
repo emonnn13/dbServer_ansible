@@ -1,0 +1,5 @@
+-
+  name: Project
+  hosts: webservers
+  roles:
+    - db
